@@ -1,0 +1,28 @@
+:root {
+    /* default contrast */
+    --ac-light: #36c;
+    --fg-light: #030306;
+    --bg-light: #f9f9fb; 
+    --midtone: gray;
+    --fg-dark: #030306;
+    --bg-dark: #b5b9f8;
+    --ac-dark: #dd8663;
+    
+    /* less contrast */
+    --ac-light-less: var(--ac-light);
+    --fg-light-less: var(--fg-light);
+    --bg-light-less: var(--bg-light); 
+    --midtone-less: gray;
+    --fg-dark-less: var(--fg-dark);
+    --bg-dark-less: var(--bg-dark);
+    --ac-dark-less: var(--ac-dark);
+
+    /* more contrast */
+    --ac-light-more: var(--ac-light);
+    --fg-light-more: #000;
+    --bg-light-more: #fff;
+    --midtone-more: gray;
+    --fg-dark-more: #fff;
+    --bg-dark-more: #000;
+    --ac-dark-more: var(--ac-dark);
+}
