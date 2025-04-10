@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'GloriaHallelujah';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://github.com/google/fonts/raw/refs/heads/main/ofl/gloriahallelujah/GloriaHallelujah.ttf) format('ttf');
+    size-adjust: 110%;
+    ascent-override: 80%;
+    descent-override: 28%;
+}
+
+@font-face {
+    font-family: 'GloriaHallelujah';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://github.com/google/fonts/raw/refs/heads/main/ofl/gloriahallelujah/GloriaHallelujah.ttf) format('ttf');
+    size-adjust: 110%;
+    ascent-override: 80%;
+    descent-override: 28%;
+}
+
+@font-face {
+    font-family: 'GloriaHallelujah';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://github.com/google/fonts/raw/refs/heads/main/ofl/gloriahallelujah/GloriaHallelujah.ttf) format('ttf');
+    size-adjust: 110%;
+    ascent-override: 80%;
+    descent-override: 28%;
+}
+
+@font-face {
+    font-family: 'GloriaHallelujah';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://github.com/google/fonts/raw/refs/heads/main/ofl/gloriahallelujah/GloriaHallelujah.ttf) format('ttf');
+    size-adjust: 110%;
+    ascent-override: 80%;
+    descent-override: 28%;
+}
+
+:root {
+    --rm: 'GloriaHallelujah';
+}

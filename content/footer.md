@@ -1,17 +1,17 @@
 ---
 type: 'footer'
-weight: 1
-coffee: 2
+weight: 10
+coffee: 29
 params:
     headless: true
     target: 'https://github.com/foxihd/hugo-brewm'
 ---
 
-<strong class="section-title">Foxx Edelweiss <i class="icon copyleft"></i> 2025</strong>
+<strong class="section-title"><i class="icon copyleft"></i> 2025</strong>
 
 No rights reserved.
 
 <br>
 <strong class="section-title">Impressum</strong>
 
-Lorem ipsum dolor sit amet.
+.
