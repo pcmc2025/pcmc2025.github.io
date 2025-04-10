@@ -75,9 +75,9 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
     ## Logo configuration
     [params.logo]
         ## Light mode logo mark
-        logoMark = 'https://raw.githubusercontent.com/pcmc2025/pcmc/master/assets/img/elements/pcmc_2025_header_logo.webp'
+        logoMark = 'https://github.com/pcmc2025/pcmc2025.github.io/raw/refs/heads/main/assets/img/elements/pcmc_2025_mini_header_logo.png'
         ## Dark mode logo mark
-        logoMarkDark = 'https://raw.githubusercontent.com/pcmc2025/pcmc/master/assets/img/elements/pcmc_2025_header_logo.webp'
+        logoMarkDark = 'https://github.com/pcmc2025/pcmc2025.github.io/raw/refs/heads/main/assets/img/elements/pcmc_2025_mini_header_logo.png'
         ## Enable logo type
         logoType = false
 

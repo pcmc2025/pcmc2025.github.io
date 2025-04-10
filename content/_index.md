@@ -1,5 +1,5 @@
 ---
-cover: 'https://raw.githubusercontent.com/pcmc2025/pcmc/master/assets/splash.jpg'
+cover: 'https://github.com/pcmc2025/pcmc2025.github.io/blob/main/assets/splash.jpg?raw=true'
 weight: 3
 ---
 
