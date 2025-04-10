@@ -10,8 +10,7 @@ params:
 <strong class="section-title"><i class="icon copyleft"></i> 2025</strong>
 
 No rights reserved.
-
+<img src="https://raw.githubusercontent.com/pcmc2025/pcmc/master/assets/splash.jpg">
+sa
 <br>
-<strong class="section-title">Impressum</strong>
-
-.
+<strong class="section-title">aska</strong>

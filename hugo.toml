@@ -75,11 +75,11 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
     ## Logo configuration
     [params.logo]
         ## Light mode logo mark
-        logoMark = 'https://example.com/logoMark.svg'
+        logoMark = 'https://raw.githubusercontent.com/pcmc2025/pcmc/master/assets/img/elements/pcmc_2025_header_logo.webp'
         ## Dark mode logo mark
-        logoMarkDark = 'https://example.com/logoMarkDark.svg'
+        logoMarkDark = 'https://raw.githubusercontent.com/pcmc2025/pcmc/master/assets/img/elements/pcmc_2025_header_logo.webp'
         ## Enable logo type
-        logoType = true
+        logoType = false
 
     ## Feed display settings
     [params.feed]
