@@ -15,6 +15,10 @@ defaultContentLanguageInSubdir = true
 ## Files to ignore when building site
 ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 ## Enable code fence highlighting
 [markup]
     [markup.highlight]
